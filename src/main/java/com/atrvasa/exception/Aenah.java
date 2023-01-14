@@ -10,9 +10,17 @@ package com.atrvasa.exception;
  *
  * <p></p>
  *
- * @author  Keykhosrow
- * 
+ * @author Keykhosrow
  */
 public class Aenah extends Exception {
 
+    private AenahDetail detail;
+
+    public AenahDetail getDetail() {
+        return detail;
+    }
+
+    public void setDetail(AenahDetail detail) {
+        this.detail = detail;
+    }
 }
