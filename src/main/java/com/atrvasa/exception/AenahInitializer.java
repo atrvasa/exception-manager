@@ -6,10 +6,8 @@
 package com.atrvasa.exception;
 
 /**
- * Tools for create Aenah exception and set it's detail for
- * tracing exception.
+ * This is a tool for initializing an exception.
  *
- * <p></p>
  *
  * @author Keykhosrow
  */

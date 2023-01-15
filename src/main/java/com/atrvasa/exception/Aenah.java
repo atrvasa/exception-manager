@@ -6,9 +6,8 @@
 package com.atrvasa.exception;
 
 /**
- * Throwable base object for exception.
+ * The throwable base object for exceptions.
  *
- * <p></p>
  *
  * @author Keykhosrow
  */
